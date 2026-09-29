@@ -3,8 +3,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CMYang95&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="Profile Views" />
 </p>
-
-專注於 **電腦視覺（Computer Vision）**、**時間序列預測** 與 **企業級 AI Agent 整合落地** 的軟體與機器學習工程師。早期深耕於物件偵測、人體姿態估計與動作分析演算法，近期延伸至 LLM 智慧代理、時序負載預測以及企業生產力工具（M365 Copilot）之客製化 Agent 開發。
+高科 資工 碩畢~
+專注於 **電腦視覺（Computer Vision）**、**時間序列預測** 與 **企業級 AI Agent 整合落地** 的軟體與機器學習工程師。早期學習於物件偵測、人體姿態估計與動作分析演算法，近期延伸至 LLM 智慧代理、時序負載預測以及企業生產力工具（M365 Copilot）之客製化 Agent 開發。
 
 ---
 
