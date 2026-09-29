@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 精選專案與實務成果 (Featured Projects)
+## 🚀 專案經驗與實務成果 (Featured Projects)
 
 ### 1. 企業級 AI Agent 應用 (Enterprise Copilot &amp; LLM)
 - **M365 Copilot Agent 建置與整合**
